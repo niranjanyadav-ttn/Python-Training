@@ -1,0 +1,4 @@
+Welcome to Python file handling!
+This is line 2 of the file.
+Learning Python is fun.
+End of file.

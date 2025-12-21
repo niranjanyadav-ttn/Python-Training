@@ -1,0 +1,5 @@
+Hello, this is example.txt file.
+This file contains some sample text.
+Python file handling is easy!
+We are learning to get file size.
+This is the last line of the file.
