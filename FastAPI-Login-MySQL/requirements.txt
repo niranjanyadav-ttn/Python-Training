@@ -1,0 +1,22 @@
+# Core FastAPI
+fastapi==0.127.0
+uvicorn==0.40.0
+python-multipart==0.0.21
+
+# Database
+SQLAlchemy==2.0.45
+mysqlclient==2.2.7
+
+# Authentication & Security
+passlib==1.7.4
+bcrypt==4.0.1
+python-jose[cryptography]==3.5.0
+
+# Validation
+pydantic==2.12.5
+email-validator==2.3.0
+
+# Configuration
+python-dotenv==1.2.1
+
+
